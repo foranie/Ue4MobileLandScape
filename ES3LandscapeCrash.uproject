@@ -1,12 +1,17 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{A08C5930-4C76-BC85-4D61-84B323B336CD}",
+	"EngineAssociation": "{DA204ABE-4E58-2D4A-200F-51AB990DFAA4}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "SteamVR",
 			"Enabled": false
+		},
+		{
+			"Name": "VaTexAtlasPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ebd9356193134578975c8fdfa6878baf"
 		}
 	]
 }
