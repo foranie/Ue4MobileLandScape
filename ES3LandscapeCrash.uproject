@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{428305D3-4470-6168-EF45-C58C66CE8D1B}",
+	"EngineAssociation": "{0F787F15-4F35-0D25-D0FB-D6B320C88A95}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -12,6 +12,10 @@
 			"Name": "VaTexAtlasPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ebd9356193134578975c8fdfa6878baf"
+		},
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": true
 		}
 	]
 }
